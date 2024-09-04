@@ -1,1 +1,1 @@
-# odin-recipes project to build a sample recipes website
+# odin-recipes project to build a simple recipes website
